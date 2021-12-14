@@ -2,7 +2,8 @@
 Pulse Width Modulation (PWM) is a technique for getting analog results with digital means. Digital control is used to create a square wave, a signal switched between ON and OFF. If you repeat this on-off pattern fast enough with a LED for example, the result is as if the signal is a steady voltage between 0 and VCC controlling the brightness of the LED.  
 
 └ src  
-   └ pwm  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ pwm  
+
 
 ## Documentation
 You'll find instructions and full documentation on [HiBit](https://www.hibit.dev/posts/30/what-is-pwm-and-how-it-works). It includes detailed info on how to wire and use the module.
